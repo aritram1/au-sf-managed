@@ -1,10 +1,16 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: Admin Utilities
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Introduction
 
-## How Do You Plan to Deploy Your Changes?
+Welcome to the Salesforce DX Admin Utilities project. This project aims to provide a suite of tools to help Salesforce administrators manage their environments more efficiently. Whether you need to schedule releases, manage downtimes, explore metadata, or perform mass metadata changes, this project has you covered.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Admin Utilities
+
+This project includes a set of admin utilities for Salesforce, such as:
+- Release schedules
+- Downtimes management
+- Metadata explorer
+- Mass metadata changes
 
 ## Configure Your Salesforce DX Project
 
